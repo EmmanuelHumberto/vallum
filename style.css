@@ -1,0 +1,72 @@
+form {
+    margin: 40px 0;
+}
+
+form label, form legenda {
+    display:inline-block;
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+
+.input-padrao {
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+.enviar {
+    width:40%;
+    padding: 15px 0;
+    background: orange;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    background: darkorange;
+    transform: scale(1.2);
+}
+
+.galeria-fotos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.galeria-fotos  li {
+    display: inline-block;
+    text-align: center;
+    width: 20%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+    .barragens {
+        text-align: right;
+    }
+    .valores li{
+        display: inline-block;
+        text-align: -moz-center;
+        width: 15%;
+        vertical-align: top;
+        margin: 0 1.5%;
+        padding: 30px 20px;
+
+    }
+    .quemsomos{
+        display: inline-block;
+    }
